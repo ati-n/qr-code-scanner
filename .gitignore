@@ -1,0 +1,10 @@
+#IDEA
+.idea/
+*.xml
+*.iml
+*.yml
+
+#Img
+*.png
+*.jpg
+*.jpeg
